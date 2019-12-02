@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.avdev4j.fr.offersopenapi",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "monolith",
+    "baseName": "offersOpenApi",
+    "packageName": "com.avdev4j.fr.offersopenapi",
+    "packageFolder": "com/avdev4j/fr/offersopenapi",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ODNiOWQ0YWQ5ZGU2MmRlZjcyMzdkZDZkNzNiZWNiYjI2MTFjMTI5MTNjMzczMjcxYzk1ODk1NDM3OGRlZDk4ZDc2OWNlMDVjOGI5N2M4M2I3YzMxMzgyNDk1NzM5MWEyNzUxOGU0NzRiYjA2NmNjNzg5NTEyNmFmODY5ZTMxNTM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr"],
+    "blueprints": []
+  }
+}
